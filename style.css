@@ -1,0 +1,11 @@
+.image {
+    display: none;
+}
+a {
+    text-decoration: none;
+    color: green;
+}
+
+a:hover{
+    color: blue;
+}
